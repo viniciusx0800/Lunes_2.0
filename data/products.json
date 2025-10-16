@@ -1,0 +1,26 @@
+[
+  {
+    "id": "luxo-001",
+    "title": "Caixa Luxo - Coroa",
+    "category": "Linha Luxo",
+    "price": "R$ 7,00",
+    "image": "assets/images/luxo-001.jpg",
+    "description": "Peça com acabamento em strass, fita de cetim e aplique 3D."
+  },
+  {
+    "id": "acrilico-001",
+    "title": "Copo Twist 500ml",
+    "category": "Linha Acrílica",
+    "price": "R$ 5,00",
+    "image": "assets/images/acrilico-001.jpg",
+    "description": "Copo semiacrílico personalizado com tag e laço."
+  },
+  {
+    "id": "encad-001",
+    "title": "Caderneta com Elástico e Tassel",
+    "category": "Encadernação",
+    "price": "R$ 52,00",
+    "image": "assets/images/encad-001.jpg",
+    "description": "Caderneta personalizada com capa dura, tassel e elástico."
+  }
+]
